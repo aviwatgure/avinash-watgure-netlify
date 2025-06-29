@@ -1,0 +1,25 @@
+> avinash-watgure-portfolio@0.0.0 build
+> vite build
+
+vite v5.4.19 building for production...
+? 1682 modules transformed.
+dist/index.html                   0.81 kB ¦ gzip:   0.38 kB
+dist/assets/index-DWeNfzQR.css   73.35 kB ¦ gzip:  12.27 kB
+dist/assets/index-Dln1FSp6.js   405.51 kB ¦ gzip: 120.41 kB
+? built in 6.21s
+
+C:\Users\user\.cursor\avinash-portfolio-online-main\avinash-portfolio-online-main>cd ..
+
+C:\Users\user\.cursor\avinash-portfolio-online-main>npm run build
+
+> avinash-watgure-portfolio@0.0.0 build
+> vite build
+
+vite v5.4.19 building for production...
+? 1682 modules transformed.
+dist/index.html                   0.81 kB ¦ gzip:   0.38 kB
+dist/assets/index-DWeNfzQR.css   73.35 kB ¦ gzip:  12.27 kB
+dist/assets/index-Dln1FSp6.js   405.51 kB ¦ gzip: 120.41 kB
+? built in 4.86s
+
+C:\Users\user\.cursor\avinash-portfolio-online-main>
